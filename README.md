@@ -5,6 +5,7 @@ A repository for materials, links and other useful information that helps you fi
 - https://migalin.ru/ctf/
 - https://forkbomb.ru/tasks
 - https://crypto-kids20.forkbomb.ru/tasks
+- https://book.hacktricks.xyz/
 ## Decryptors
 - https://www.dcode.fr/cipher-identifier
 - https://gchq.github.io/CyberChef/
