@@ -13,3 +13,6 @@ A repository for materials, links and other useful information that helps you fi
 - https://trailofbits.github.io/ctf/
 - https://github.com/keewenaw/dvwa-guide-2019
 - https://www.osintme.com
+## Wordlists
+- https://wiki.skullsecurity.org/index.php/Passwords
+- https://github.com/danielmiessler/SecLists
