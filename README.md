@@ -6,6 +6,7 @@ A repository for materials, links and other useful information that helps you fi
 - https://forkbomb.ru/tasks
 - https://crypto-kids20.forkbomb.ru/tasks
 - https://book.hacktricks.xyz/
+- https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master
 ## Decryptors
 - https://www.dcode.fr/cipher-identifier
 - https://gchq.github.io/CyberChef/
